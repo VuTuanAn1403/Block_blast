@@ -2,7 +2,7 @@
 
 Effective date / Ngày hiệu lực: 25 November 2026 / 25 tháng 11 năm 2026
 
-Application / Ứng dụng: Mamo Blocks (`com.an.mamoblocks`)
+Application / Ứng dụng: Mamo Blocks (`com.an.block_Blast`)
 
 Developer / Nhà phát triển: An_Lười
 
